@@ -2,6 +2,6 @@
 #### A little about me...
 🧠 I'm a third year cognitive systems student
 
-🌱 I'm interested in software development and ux/ui design
+🌱 I'm interested in bioinformatics and software development
 
-😄 My pronouns are she/her
+🧋 My pronouns are she/her
